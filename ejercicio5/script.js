@@ -13,7 +13,7 @@ while (control==0) {
       alert("¡Es martes! Continúa con el buen trabajo.");
       break;
     case "miercoles":
-      alert("¡Es miércoles! Ya estás a mitad de semana.");
+      alert("¡Es miércoles! Ya estás a mitad de semana.u");
       break;
     case "jueves":
       alert("¡Es jueves! El fin de semana está cerca.");
